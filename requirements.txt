@@ -1,0 +1,9 @@
+numpy
+matplotlib
+scikit-learn
+pandas
+ramp-workflow
+jupyter
+seaborn
+graphviz
+pydotplus

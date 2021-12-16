@@ -1,0 +1,23 @@
+name: Thyroid-desease-classfication
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - jupyter
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn
+  - python-graphviz
+  - pydotplus
+  - seaborn
+  
+  # Extra requirements conda
+
+  - scipy
+
+
+  - pip
+  - pip:
+    - ramp-workflow
+
