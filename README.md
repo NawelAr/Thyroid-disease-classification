@@ -1,6 +1,6 @@
 # Student challenge : Thyroid-desease-classification
 
-Original authors: Bertrand PATUREL - Kaixian HUANG - Ramy MERABET - Nawel ARAB - Pierre-André MIKEM
+Original authors: Nawel Arab - Kaixian HUANG - Ramy MERABET - Nawel ARAB - Pierre-André MIKEM - Bertrand PATUREL
 
 As part of the Data Camp course, within the [Data Science Masters at Institut Polytechnique
 de Paris in collaboration with University of
@@ -9,7 +9,7 @@ students were required to build a data challenge addressing some social/science/
 problem using data obtained from external sources. This is our
 challenge on the Thyroid desease detection.
 
-# Prediction whether a patient suffers from a dysfunctionnal thyroid.
+# Predicting whether a patient suffers from a dysfunctionnal thyroid.
 
 It is estimated that over 200,000 million people worldwide suffer from a thyroid disease, such as enlarged thyroid gland (goiter), thyroid nodules with or without cancer, hyperthyroidism or hypothyroidism. The influence of the thyroid gland on the body is major. The role of this butterfly-shaped organ located at the base of the neck (under the Adam's apple) is to regulate the metabolism of the cells in our body. It therefore determines the speed of the "motor" of our cells and organs and is involved in the proper functioning of our organs: the heart, muscles, brain, but also the digestive tract, bone health, regulation of our temperature and energy ... When the thyroid gets excited about producing hormones, the body does the same in its energy combustion, running several vital functions at full speed. This is called hyperthyroidism. When the gland is idling and not producing enough hormones, it is called hypothyroidism.
 
