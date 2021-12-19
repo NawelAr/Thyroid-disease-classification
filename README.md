@@ -1,6 +1,6 @@
 # Student challenge : Thyroid-desease-classification
 
-Original authors: Nawel Arab - Kaixian HUANG - Ramy MERABET - Nawel ARAB - Pierre-André MIKEM - Bertrand PATUREL
+Original authors: Nawel Arab - Kaixian HUANG - Ramy MERABET  - Pierre-André MIKEM - Bertrand PATUREL
 
 As part of the Data Camp course, within the [Data Science Masters at Institut Polytechnique
 de Paris in collaboration with University of
