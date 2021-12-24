@@ -1,4 +1,4 @@
-# Student challenge : Thyroid-desease-classification
+# Student challenge : Thyroid disease classification
 
 Original authors: Nawel Arab - Kaixian HUANG - Ramy MERABET  - Pierre-André MIKEM - Bertrand PATUREL
 
